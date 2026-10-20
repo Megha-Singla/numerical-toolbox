@@ -6,3 +6,8 @@ def g(x):
 
 def h(x):
     return 6+90
+
+
+def y(x):
+    return 7+9*8
+    
