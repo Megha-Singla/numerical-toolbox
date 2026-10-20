@@ -10,4 +10,6 @@ def h(x):
 
 def y(x):
     return 7+9*8
-    
+
+def g(x):
+    return 656
