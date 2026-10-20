@@ -15,4 +15,5 @@ def g(x):
     return 656+8*x
 
 def t(x):
-    return x+90
+    return x+90+567
+
