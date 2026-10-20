@@ -12,4 +12,5 @@ def y(x):
     return 7+9*8
 
 def g(x):
-    return 656
+    return 656+8*x
+    
