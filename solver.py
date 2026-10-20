@@ -3,3 +3,6 @@ def f(x):
 
 def g(x):
     return 6+8*7*x
+
+def h(x):
+    return 6+90
